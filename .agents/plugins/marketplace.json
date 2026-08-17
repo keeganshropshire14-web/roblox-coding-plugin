@@ -1,0 +1,9 @@
+{
+  "name": "roblox-coding-plugin-marketplace",
+  "plugins": [
+    {
+      "name": "roblox-coding-plugin",
+      "source": "./plugins/roblox-coding-plugin"
+    }
+  ]
+}
