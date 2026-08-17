@@ -1,0 +1,13 @@
+{
+  "name": "roblox-coding-plugin",
+  "version": "1.0.0",
+  "description": "A powerful Roblox Studio coding assistant that helps create, debug, improve, and double-check Roblox scripts.",
+  "author": {
+    "name": "Keegan"
+  },
+  "interface": {
+    "displayName": "Roblox Coding Plugin",
+    "shortDescription": "Make Roblox Studio coding easier and better.",
+    "longDescription": "An advanced Roblox Studio coding assistant designed to help create Lua scripts, find and fix errors, improve existing code, explain scripts, and double-check solutions before presenting them."
+  }
+}
