@@ -1,0 +1,29 @@
+ROBLOX CODING PLUGIN
+
+Project URL:
+https://preview--9f654302-571e-4dc1-bc45-7d65656bd996.aippy.live/?v=1786979057619&t=1786978977908-3
+
+EASY STEPS
+
+1. Copy the URL above.
+
+2. Open your browser.
+
+3. Paste the URL into the address bar.
+
+4. Press Enter.
+
+5. The plugin project will open.
+
+GITHUB SETTINGS
+
+Git ref:
+main
+
+Sparse paths:
+Leave blank.
+
+IMPORTANT
+
+The URL above is the preview for the Roblox coding plugin I am making.
+It is NOT a GitHub repository URL.
